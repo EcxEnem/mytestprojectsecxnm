@@ -1,5 +1,5 @@
 This is README.md
-Please edit README.md use gedit in Ubuntu
+
 
 iNTERNET OF THINGS AND ESPIONAGE
 
