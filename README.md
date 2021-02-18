@@ -1,7 +1,7 @@
 This is README.md
 
 
-iNTERNET OF THINGS AND ESPIONAGE
+iNTERNET OF THINGS in Intelligence Gathering
 
   In this modern age of technology , all our daily routines and every action we do are now assisted by technology and other modern devices.
 The things that we do , the food that we eat and even our rotes that we walk are all digitalised and stored in devces that we are wearing or 
